@@ -1,0 +1,9 @@
+Set up the FastAPI project structure
+Refactor your regression code into a reusable class
+Download/prepare your dataset
+Build the training endpoint
+Build the prediction endpoint
+Test with Postman/curl
+Build the Next.js frontend
+Connect frontend to backend
+If you want more detail on any step, say which one.
