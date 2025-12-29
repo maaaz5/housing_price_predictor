@@ -2,8 +2,7 @@ import pickle
 import pandas as pd
 import os
 from sklearn.preprocessing import StandardScaler
-
-from backend.app.models.regression import CustomLinearRegression
+from app.models.regression import CustomLinearRegression
 
 
 
